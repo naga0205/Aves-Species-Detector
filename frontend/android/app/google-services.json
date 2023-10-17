@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957116794895",
+    "project_id": "avesspecies-b354b",
+    "storage_bucket": "avesspecies-b354b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957116794895:android:6ebd92b0aa295366e9bb7a",
+        "android_client_info": {
+          "package_name": "com.example.aves_species"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957116794895-ep0joahsn2o20215knujrd5lsd8nm7m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi-cg8LOox_o9lsL8srDUoonrwQ6sdnrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957116794895-ep0joahsn2o20215knujrd5lsd8nm7m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
